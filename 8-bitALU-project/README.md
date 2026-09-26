@@ -156,10 +156,8 @@ Recommended repository structure:
 ├── tb/
 │   └── alu_tb.v
 ├── docs/
-│   ├── alu_block_diagram.png
-│   ├── waveform.png
-│   ├── synthesized_schematic.png
-│   └── utilization.png
+│   ├── simulation waveform.png
+│   ├── schematic.png
 └── README.md
 ```
 
